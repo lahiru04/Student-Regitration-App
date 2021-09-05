@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Student Registration App</string>
+    <string name="form_title">Student Information</string>
 </resources>
